@@ -141,9 +141,10 @@ public class GUIManual extends JFrame {
         // Pinta y ajusta diseño del contenedor de contenidos
         pintarPanelDerecho();
         
-        setTitle("Mundial");
+        //cambio de titulo
+        setTitle("Mundial practica");
         pack();
-        setVisible(true);
+        setVisible(true); 
     }
     
     private void pintarLogo() {
